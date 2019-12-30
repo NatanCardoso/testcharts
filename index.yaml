@@ -3,7 +3,7 @@ entries:
   nginx-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2019-12-29T20:57:12.76443087-03:00"
+    created: "2019-12-29T21:07:02.021519078-03:00"
     description: A Helm chart for Kubernetes
     digest: adcce14828ee50717088b5a08b8ec87b7223e5bd0c43b23895abd6c802c5be34
     name: nginx-chart
@@ -11,4 +11,4 @@ entries:
     urls:
     - nginx-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2019-12-29T20:57:12.763859621-03:00"
+generated: "2019-12-29T21:07:02.020764752-03:00"
